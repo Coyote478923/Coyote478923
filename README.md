@@ -1,1 +1,1 @@
-I don't have anything to put here yet
+I'm Learning python and im going to put all my projects here
