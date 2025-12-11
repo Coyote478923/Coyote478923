@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a solo developer working on open source idea projects.<br>I am 14, mainly writing scripts to get around around my schools website blocking.
 
 Systems/Computers I use:
